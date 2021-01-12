@@ -6,6 +6,7 @@ If you like to add your game in this list open an issue or send me a pull reques
 ## List of Published Games using this Plugin
 
 - [12345 Rotors - Puzzle Game](https://play.google.com/store/apps/details?id=com.ross.numbergame12345)
+- [Apeirozoic: Strategy Evolution](https://play.google.com/store/apps/details?id=org.kenomicgames.apeirozoic.ccg)
 - [Ball Square](https://play.google.com/store/apps/details?id=com.mani.ballandsquare&hl=en_US)
 - [Ball Toss](https://play.google.com/store/apps/details?id=com.EGFABT.Ball_Toss)
 - [Break Bacteria](https://play.google.com/store/apps/details?id=com.turkicgames.breakbacteria)
